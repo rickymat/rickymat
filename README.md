@@ -12,4 +12,4 @@
 ## My status 💻
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rickymat&show_icons=true&theme=shadow_blue&hide=stars,prs,contribs)
 </br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickymat&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickymat&layout=compact&theme=shadow_blue)
