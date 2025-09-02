@@ -10,4 +10,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## My status 💻
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Raven533&show_icons=true&theme=dark&hide=stars,prs,contribs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rickymat&show_icons=true&theme=shadow_blue&hide=stars,prs,contribs)
+</br></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickymat&layout=compact&theme=dark)
